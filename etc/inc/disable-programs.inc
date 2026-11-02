@@ -264,6 +264,7 @@ blacklist ${HOME}/.cache/yandex-browser-beta
 blacklist ${HOME}/.cache/youtube-dl
 blacklist ${HOME}/.cache/youtube-viewer
 blacklist ${HOME}/.cache/yt-dlp
+blacklist ${HOME}/.cache/zed
 blacklist ${HOME}/.cache/zim
 blacklist ${HOME}/.cachy
 blacklist ${HOME}/.cargo
@@ -750,6 +751,7 @@ blacklist ${HOME}/.config/youtubemusic-nativefier-040164
 blacklist ${HOME}/.config/yt-dlp
 blacklist ${HOME}/.config/yt-dlp.conf
 blacklist ${HOME}/.config/zathura
+blacklist ${HOME}/.config/zed
 blacklist ${HOME}/.config/zim
 blacklist ${HOME}/.config/zoom.conf
 blacklist ${HOME}/.config/zoomus.conf
@@ -1140,6 +1142,7 @@ blacklist ${HOME}/.local/share/wormux
 blacklist ${HOME}/.local/share/xplayer
 blacklist ${HOME}/.local/share/xreader
 blacklist ${HOME}/.local/share/zathura
+blacklist ${HOME}/.local/share/zed
 blacklist ${HOME}/.local/state/ani-cli
 blacklist ${HOME}/.local/state/audacity
 blacklist ${HOME}/.local/state/keepassxc
