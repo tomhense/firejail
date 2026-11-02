@@ -24,3 +24,6 @@ noroot
 protocol unix,inet,inet6
 seccomp
 private-etc @tls-ca,@x11
+
+dbus-user none
+dbus-system none
